@@ -6,7 +6,7 @@
 4. DOM
 5. Local Storage
 ## Theme
-1. https://www.pinterest.com/pin/702913454356292031/
+1. https://www.pinterest.com/pin/847028642423342876/?nic_v3=1a58C3D1Y
 ## Thành quả 
 1. Link git :
 2. Link sản phẩm :
